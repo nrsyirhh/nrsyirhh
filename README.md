@@ -15,4 +15,3 @@ insyirah here !
 ⚡ Fun fact: I get way too happy when my code finally works
 
 ╰────── · · ୨୧ · · ──────╯
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrsyirhh)](https://github.com/nrsyirhh/github-readme-stats)
