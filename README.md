@@ -1,16 +1,17 @@
-## Hi there 👋
+╭────── · · ୨୧ · · ──────╮
 
-<!--
-**nrsyirhh/nrsyirhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+insyirah here !
+🌱 A Computer Science student, still a beginner but learning step by step  
+💻 I code mostly for fun and slowly falling in love with it  
+🎀 Into pastel designs, aesthetic websites & clean layouts  
 
-Here are some ideas to get you started:
+✨ I believe progress > perfection  
+🤍 Still exploring, still improving, still curious
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me:  
+• Email: syiisyirah@gmail.com  
+
+😄 Pronouns: she/her  
+⚡ Fun fact: I get way too happy when my code finally works
+
+╰────── · · ୨୧ · · ──────╯
