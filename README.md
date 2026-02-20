@@ -2,8 +2,7 @@
 
 insyirah here !
 🌱 A Computer Science student, still a beginner but learning step by step  
-💻 I code mostly for fun and slowly falling in love with it  
-🎀 Into pastel designs, aesthetic websites & clean layouts  
+💻 I code mostly for fun 
 
 ✨ I believe progress > perfection  
 🤍 Still exploring, still improving, still curious
