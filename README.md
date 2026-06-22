@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/DEVELOPER-cyan?style=for-the-badge">
 </p>
 
-### [ TECH STACK ]
+<h3 align="center">[ TECH STACK ]</h3>
 
 <p align="center">
   ◆ <b>Languages & Tools</b> ◆
