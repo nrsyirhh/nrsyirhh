@@ -48,3 +48,8 @@
   <img src="https://img.shields.io/badge/SOFTWARE_DEV-111927?style=for-the-badge&logo=visualstudio&logoColor=purple">
   <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
+<h3 align="center">[ GITHUB STATS ]</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nrsyirhh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111927" alt="GitHub Stats" />
+</p>
